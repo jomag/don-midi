@@ -1,13 +1,3 @@
-MIDI to CV/Gate module
-======================
+Content of this repo has been incorporated into https://github.com/jomag/synth-project
 
-Ideas
------
-
-- Glide functionality
-- Thru-port
-- Combined panel and PCB, using panel mount DIN connector
-- Allow to select channel
-- More than one CV/Gate output, each connected to one channel
-- Builtin arpeggiator
-
+This repo will be removed shortly.
